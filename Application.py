@@ -1,4 +1,4 @@
-"""Adama Konate - IS211 - Course Project""
+"""Adama Konate - IS211 - Course Project"""
 
 from flask import Flask, request, session, g, redirect, url_for, abort, render_template, flash
 import re
