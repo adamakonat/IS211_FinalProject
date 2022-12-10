@@ -6,9 +6,9 @@ database, which will be used to show the user their list of books.
 
 The application is using four different tables 
 users: contains users 
-clouds: contains an identifier that links the owner of the cloud 
-books: contains books 
-items: contains an Identifier that links a Cloud to the book
+/clouds: contains an identifier that links the owner of the cloud 
+/books: contains books 
+/items: contains an Identifier that links a Cloud to the book
 
 The two admin users are:
 User: admin / Pass: password 
